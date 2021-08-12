@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+	width:80%;
+	margin:auto;
+	
+}
+.aside-left-side{
+	margin-top:100px;
+	width:50%;
+	float:left;
+}
+.our{
+    font-size: 25px;
+    color:#F4B328;
+    margin-top: 5%;
+    font-size: 30px;
+    
+    
+}
+span{
+    color:#200768;
+}
+p{
+    
+    margin-top: 20px;
+
+
+}
+button{
+    margin-top: 20px;
+    background: #F4B328;
+    padding: 10px;
+    border-radius: 50px;
+    border: none;
+    color: cornsilk;
+    text-transform:uppercase;
+    cursor: pointer;
+}
+.aside-right-side img{
+	height:300px;
+     width:250px;
+     padding-top: 70px;
+     padding-left: 20px;
+	
+}
